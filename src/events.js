@@ -26,6 +26,15 @@ const events = [
         },
         watermark: 'DnD'
     },
+    {
+        id: 6,
+        name: 'A Magical Campaign with Not John',
+        date: {
+            day: 29,
+            month: 'Apr'
+        },
+        watermark: 'DnD'
+    }
 ];
 
 export default events;
